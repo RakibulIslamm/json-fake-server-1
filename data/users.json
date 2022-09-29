@@ -1,0 +1,20 @@
+[
+    {
+        "email": "nilakash01688@gmail.com",
+        "password": "$2a$10$aEwe9xZjRgZijYE16qIQa.mhgQ1LcojsLdmiao0a3MGBk3YmfZxIG",
+        "name": "Neel Akash",
+        "id": 1
+    },
+    {
+        "email": "rakibulislam01685@gmail.com",
+        "password": "$2a$10$VHoT5Pcxp5n4ls4kEDeECe6or1IMaKS3UIgsz7Pir.aMjoJAH.eeW",
+        "name": "Rakibul Islam",
+        "id": 2
+    },
+    {
+        "email": "sumit@learnwithsumit.com",
+        "password": "$2a$10$ztrmw7bkWcwugvZLXBrTaegvwyxPcyIpQdITM0Oxx3RQBuWcO8ife",
+        "name": "Sumit Saha",
+        "id": 3
+    }
+]
